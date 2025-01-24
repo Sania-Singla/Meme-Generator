@@ -8,7 +8,7 @@ export default function Header() {
                 <img src={trollFace} alt="troll face" />
                 <h2>Meme Generator</h2>
             </div>
-            <p>React Course - Project 3</p>
+            <p>Author - Sania Singla</p>
         </div>
     )
 }
