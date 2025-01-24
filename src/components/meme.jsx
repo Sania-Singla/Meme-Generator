@@ -1,5 +1,4 @@
 import "../css/main.css"
-// import memesData from "../db/memesData"   // no need now because we used api request now
 import { useState,useEffect } from "react";
 
 export default function Meme() {
